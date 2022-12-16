@@ -1,0 +1,17 @@
+{
+  "name": "bundlr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bundlr-network/client": "^0.9.10",
+    "@thirdweb-dev/sdk": "^3",
+    "dotenv": "^16.0.3"
+  }
+}

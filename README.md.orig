@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# thirdweb-bundlr
+Decentralized NFT metadata storage using Bundlr
+=======
 # Solana NFT drop bundlr
 
 This project demonstrates how you can create and deploy your own NFT drop on the Solana blockchain using thirdweb's Solana SDK and use Bundlr to store your images of the NFTs permanently.
@@ -123,3 +127,4 @@ console.log("signature: ", tx[0].signature);
 ## Join our Discord!
 
 For any questions or suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+>>>>>>> f71d239 (feat: init)
