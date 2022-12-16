@@ -1,6 +1,6 @@
 # Solana NFT drop bundlr
 
-This project demonstrates how you can create and deploy your own NFT drop on the Solana blockchain using thirdweb's Solana SDK and use Bundlr to store your images of the NFTs permanently.
+This project demonstrates how you can create and deploy your own NFT drop on the Solana blockchain using thirdweb's Solana SDK and use Bundlr to store your images of the NFTs permanently and in a decentralised way.
 
 ## Tools:
 
